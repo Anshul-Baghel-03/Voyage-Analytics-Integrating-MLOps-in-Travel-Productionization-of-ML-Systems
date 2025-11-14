@@ -41,8 +41,8 @@ Ensure you have the following installed on your system:
 ### Clone the Repository
 To get started, clone the repository to your local machine:
 ```bash
-git clone https://github.com/KolekarPramod/Voyage-Analytics.git
-cd Voyage-Analytics
+git clone https://github.com/Anshul-Baghel-03/Voyage-Analytics-Integrating-MLOps-in-Travel-Productionization-of-ML-Systems.git
+cd Voyage-Analytics-Integrating-MLOps-in-Travel-Productionization-of-ML-Systems
 python -m venv .venv
 .venv/Scripts/activate
 pip install -r requirements.txt
